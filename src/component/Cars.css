@@ -1,0 +1,68 @@
+img {
+    width: 350px;
+    height: 195px;
+}
+
+.filter-container {
+    width: 1600px;
+    height: 120px;
+    margin: 32px;
+    margin-top: 102px;
+    background-color: #303030;
+    display: flex;
+    align-items: center;
+}
+
+.filter-button {
+    width: 200px;
+    height: 60px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #929292;
+    color: white;
+    border-radius: 5px;
+}
+
+.cars-container {
+    width: 1600px;
+    height: fit-content;
+    background-color: #303030;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.car-listing {
+    background-color: #929292;
+    width: 370px;
+    height: 265px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 16px;
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.fake-picture {
+    background-color: #d9d9d9;
+    width: 350px;
+    height: 195px;
+    border-radius: 5px;
+}
+
+.text-background {
+    background-color: #d9d9d9;
+    width: 350px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    color: black;
+}

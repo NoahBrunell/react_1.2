@@ -1,0 +1,11 @@
+form {
+    height: 100vh;
+    padding-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    margin-right: 24px;
+}
